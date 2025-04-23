@@ -12,7 +12,7 @@ A menu-driven Bank Management System developed in Python, designed to handle cor
 ### 🛠️ **Tech Stack** <br>
 Python (Core Programming) <br>
 File Handling / Serialization (for data persistence) <br>
-OOP (Object-Oriented Programming) <br>
+OOP (Object-Oriented Programming) <br> 
 
 ### 🚀 **How to Run**
  ```bash
