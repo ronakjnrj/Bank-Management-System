@@ -3,7 +3,7 @@ A menu-driven Bank Management System developed in Python, designed to handle cor
 
 ### 🔧 **Features** <br>
 🆕 Create new accounts with auto-generated 12-digit account numbers <br>
-💰 Deposit and withdraw funds with transaction handling <br>
+💰 Deposit and withdraw funds with transaction handling <br> 
 🧾 Check balance and account details <br> 
 📋 View all account holders in a clean list format <br>
 🛠️ Modify or close existing accounts <br> 
