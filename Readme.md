@@ -8,7 +8,7 @@ A menu-driven Bank Management System developed in Python, designed to handle cor
 📋 View all account holders in a clean list format <br>
 🛠️ Modify or close existing accounts <br> 
 🔐 Secure input validation and clean user interface <br>  
- 
+  
 ### 🛠️ **Tech Stack** <br>
 Python (Core Programming) <br>
 File Handling / Serialization (for data persistence) <br>  
