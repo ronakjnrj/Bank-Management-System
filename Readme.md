@@ -23,7 +23,7 @@ OOP (Object-Oriented Programming) <br>
 [If you want others to contribute, explain how.]
 
 1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
+2.  Create a new branch for your feature or bug fix. 
 3.  Make your changes and commit them.
 4.  Push to your fork.
 5.  Submit a pull request.
