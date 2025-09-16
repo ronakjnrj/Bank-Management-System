@@ -1,5 +1,5 @@
 # 🏦 Bank Management System
-A menu-driven Bank Management System developed in Python, designed to handle core banking operations through a simple and intuitive command-line interface. This project allows users to effortlessly manage customer accounts, including features like account creation, secure deposits and withdrawals, balance checks, and account updates—all powered by clean OOP design and persistent data handling.
+A menu-driven Bank Management System developed in Python, designed to handle core banking operations through a simple and intuitive command-line interface. This project allows users to effortlessly manage customer accounts, including features like account creation, secure deposits and withdrawals, balance checks, and account updates—all powered by clean OOP design and persistent data handling. 
 
 ### 🔧 **Features** <br>
 🆕 Create new accounts with auto-generated 12-digit account numbers <br>
