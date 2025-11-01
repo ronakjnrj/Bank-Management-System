@@ -6,7 +6,7 @@ A menu-driven Bank Management System developed in Python, designed to handle cor
 💰 Deposit and withdraw funds with transaction handling <br> 
 🧾 Check balance and account details <br>  
 📋 View all account holders in a clean list format <br>
-🛠️ Modify or close existing accounts <br>  
+🛠️ Modify or close existing accounts <br> 
 🔐 Secure input validation and clean user interface <br> 
   
 ### 🛠️ **Tech Stack** <br> 
